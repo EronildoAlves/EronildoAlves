@@ -1,9 +1,9 @@
 ### Olá! Eu sou Eronildo Alves 👋
 
- ## GitHub Stats
 ![EronildoAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=EronildoAlves&show_icons=true&theme=dracula)
- ## Card - Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EronildoAlves&layout=compact)
+
 ## Habilidades em desenvolvimento e Ferramentas
 <div style="display: inline_block"><br/>
 <img alig="center" alt="Eronildo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
