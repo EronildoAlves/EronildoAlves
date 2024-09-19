@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EronildoAlves&layout=compact)
 
 ## Habilidades em desenvolvimento e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,idea,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,idea,)](https://skillicons.dev)
 
 <hr>
  <div>
